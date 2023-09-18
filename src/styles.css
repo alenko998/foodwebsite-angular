@@ -7,3 +7,6 @@
     --primary-color: #3FC060;
     --secondary-color: #162328;
 }
+body{
+    height: 100vh;
+}
